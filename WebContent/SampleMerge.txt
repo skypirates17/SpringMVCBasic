@@ -1,5 +1,1 @@
-johnrey angolluan amksdhak
-skjdfhskfhhjksdfjkjk
-
-
-sfsfsdfsdfdfds
+Spring MVC Basic Sample 
